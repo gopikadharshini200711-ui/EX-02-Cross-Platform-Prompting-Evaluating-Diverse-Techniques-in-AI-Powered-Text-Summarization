@@ -18,8 +18,11 @@ Speed
 
 User experience
 
-## Algorithm
+## output
+<img width="652" height="865" alt="image" src="https://github.com/user-attachments/assets/ca43f19c-e965-41ae-8193-bef789302255" />
+
 
 ## Result
+output is given using chatgpt
 
 
